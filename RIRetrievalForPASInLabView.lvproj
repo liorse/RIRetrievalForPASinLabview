@@ -83,6 +83,7 @@
 			<Item Name="ReadBaesDataTypeDefinition.ctl" Type="VI" URL="../ReadBaesDataTypeDefinition.ctl"/>
 			<Item Name="RIandRIMCResults.ctl" Type="VI" URL="../RIandRIMCResults.ctl"/>
 		</Item>
+		<Item Name="GetAbsorptionCrossSectionsFromLinearLineRegression.vi" Type="VI" URL="../GetAbsorptionCrossSectionsFromLinearLineRegression.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Contour Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Contour/3D Contour Datatype/3D Contour Datatype.lvclass"/>
@@ -564,7 +565,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/Z/Dropbox/Lior Segev/Lior Segev Projects/RI Retrieval for PAS in Labview Uncalibrated Method/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B77AA303-2D17-43BC-8497-38A482EE67A2}</Property>
-				<Property Name="Bld_version.build" Type="Int">33</Property>
+				<Property Name="Bld_version.build" Type="Int">35</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">RI Retrieval for PAS in Labview Uncalibrated Method.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/Z/Dropbox/Lior Segev/Lior Segev Projects/RI Retrieval for PAS in Labview Uncalibrated Method/builds/NI_AB_PROJECTNAME/RI Retrieval for PAS in Labview Uncalibrated Method.exe</Property>
