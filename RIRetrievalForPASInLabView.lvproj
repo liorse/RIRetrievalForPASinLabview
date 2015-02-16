@@ -387,7 +387,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/W/Lior Segev/Lior Segev Projects/RI Retrieval for PAS in Labview Uncalibrated Method/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B77AA303-2D17-43BC-8497-38A482EE67A2}</Property>
-				<Property Name="Bld_version.build" Type="Int">42</Property>
+				<Property Name="Bld_version.build" Type="Int">44</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">RI Retrieval for PAS in Labview Uncalibrated Method.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/W/Lior Segev/Lior Segev Projects/RI Retrieval for PAS in Labview Uncalibrated Method/builds/NI_AB_PROJECTNAME/RI Retrieval for PAS in Labview Uncalibrated Method.exe</Property>
